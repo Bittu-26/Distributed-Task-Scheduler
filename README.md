@@ -102,7 +102,7 @@ guarantees zero job loss.
 
 ### 1. Clone Repository
 
-    git clone https://github.com/your-username/distributed-task-scheduler
+    git clone https://github.com/Bittu-26/Distributed-Task-Ccheduler
     cd distributed-task-scheduler
 
 ### 2. Start Redis
